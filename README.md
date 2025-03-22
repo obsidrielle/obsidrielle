@@ -31,7 +31,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obsidrielle)](https://github.com/anuraghazra/github-readme-stats)
 
-** 💡 Thinking In... **
+## 💡 Thinking In... 
 ```rust
 fn solve_problem(requirements: Requirements) -> impl Future<Output=Solution> {
     async {
