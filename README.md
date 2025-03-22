@@ -29,6 +29,8 @@
   </tr>
 </table>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obsidrielle)](https://github.com/anuraghazra/github-readme-stats)
+
 **🚀 Featured Projects**
 
 <!-- REPLACE WITH YOUR PROJECTS -->
