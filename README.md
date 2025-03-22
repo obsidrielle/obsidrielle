@@ -31,6 +31,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obsidrielle)](https://github.com/anuraghazra/github-readme-stats)
 
+** 💡 Thinking In... **
+fn solve_problem(requirements: Requirements) -> impl Future<Output=Solution> {
+    async {
+        let analysis = requirements.analyze().await;
+        analysis.optimize().implement()
+    }
+}
+
 **🚀 Featured Projects**
 
 <!-- REPLACE WITH YOUR PROJECTS -->
